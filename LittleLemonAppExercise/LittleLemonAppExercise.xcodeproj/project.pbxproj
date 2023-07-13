@@ -17,6 +17,7 @@
 		832F14F82A5C37E700B4EE52 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 832F14F72A5C37E700B4EE52 /* MainView.swift */; };
 		8369F7CA2A5D3E240002571B /* DatePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8369F7C92A5D3E240002571B /* DatePickerView.swift */; };
 		83A831CD2A5D606F00BA71AE /* MultiLevelTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A831CC2A5D606F00BA71AE /* MultiLevelTestView.swift */; };
+		83F664BC2A5FF03800570393 /* GestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F664BB2A5FF03800570393 /* GestureRecognizer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		832F14F72A5C37E700B4EE52 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		8369F7C92A5D3E240002571B /* DatePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerView.swift; sourceTree = "<group>"; };
 		83A831CC2A5D606F00BA71AE /* MultiLevelTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiLevelTestView.swift; sourceTree = "<group>"; };
+		83F664BB2A5FF03800570393 /* GestureRecognizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestureRecognizer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				832F14F72A5C37E700B4EE52 /* MainView.swift */,
 				8369F7C92A5D3E240002571B /* DatePickerView.swift */,
 				83A831CC2A5D606F00BA71AE /* MultiLevelTestView.swift */,
+				83F664BB2A5FF03800570393 /* GestureRecognizer.swift */,
 				832F14D12A5C37BB00B4EE52 /* Assets.xcassets */,
 				832F14D32A5C37BB00B4EE52 /* Preview Content */,
 			);
@@ -269,6 +272,7 @@
 				832F14D02A5C37BA00B4EE52 /* ContentView.swift in Sources */,
 				832F14F82A5C37E700B4EE52 /* MainView.swift in Sources */,
 				8369F7CA2A5D3E240002571B /* DatePickerView.swift in Sources */,
+				83F664BC2A5FF03800570393 /* GestureRecognizer.swift in Sources */,
 				832F14CE2A5C37BA00B4EE52 /* LittleLemonAppExerciseApp.swift in Sources */,
 				83A831CD2A5D606F00BA71AE /* MultiLevelTestView.swift in Sources */,
 			);

@@ -17,6 +17,9 @@ struct MultiLevelTestView: View {
                 .foregroundColor(.white)
                 .padding(20)
                 .background(.yellow)
+                .onTapGesture {
+                    print("Hello")
+                }
             Rectangle()
                 .fill(Color.blue)
                 .frame(width: 100,height: 30)
