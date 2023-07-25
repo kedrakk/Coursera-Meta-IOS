@@ -3,5 +3,6 @@
     <pages>
         <page name='EnumExercisePlayground'/>
         <page name='EnumPlayground'/>
+        <page name='SetExercisePlayground'/>
     </pages>
 </playground>
