@@ -6,5 +6,6 @@
         <page name='InheritancePlayground'/>
         <page name='SetExercisePlayground'/>
         <page name='ProtocolExercisePlayground'/>
+        <page name='DelegatePlayground'/>
     </pages>
 </playground>
