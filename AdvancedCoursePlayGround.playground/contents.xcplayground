@@ -7,5 +7,6 @@
         <page name='SetExercisePlayground'/>
         <page name='ProtocolExercisePlayground'/>
         <page name='DelegatePlayground'/>
+        <page name='ErrorCatchingPlayground'/>
     </pages>
 </playground>
