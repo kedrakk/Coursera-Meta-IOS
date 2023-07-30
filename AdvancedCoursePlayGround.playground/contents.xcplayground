@@ -8,5 +8,6 @@
         <page name='ProtocolExercisePlayground'/>
         <page name='DelegatePlayground'/>
         <page name='ErrorCatchingPlayground'/>
+        <page name='ResursionAndOthersPlayground'/>
     </pages>
 </playground>
