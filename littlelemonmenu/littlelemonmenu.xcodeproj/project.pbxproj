@@ -17,6 +17,8 @@
 		8340D7902A77F176007E8299 /* MenuItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8340D78F2A77F176007E8299 /* MenuItemView.swift */; };
 		8340D7922A77F291007E8299 /* MenuItemsOptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8340D7912A77F291007E8299 /* MenuItemsOptionView.swift */; };
 		8340D7942A77F29F007E8299 /* MenuItemDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8340D7932A77F29F007E8299 /* MenuItemDetailsView.swift */; };
+		839D5C212A7898CB007BAED5 /* MenuCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 839D5C202A7898CB007BAED5 /* MenuCategory.swift */; };
+		839D5C232A7898FE007BAED5 /* Ingredient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 839D5C222A7898FE007BAED5 /* Ingredient.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +52,8 @@
 		8340D78F2A77F176007E8299 /* MenuItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemView.swift; sourceTree = "<group>"; };
 		8340D7912A77F291007E8299 /* MenuItemsOptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemsOptionView.swift; sourceTree = "<group>"; };
 		8340D7932A77F29F007E8299 /* MenuItemDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemDetailsView.swift; sourceTree = "<group>"; };
+		839D5C202A7898CB007BAED5 /* MenuCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuCategory.swift; sourceTree = "<group>"; };
+		839D5C222A7898FE007BAED5 /* Ingredient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ingredient.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +111,8 @@
 				8340D7932A77F29F007E8299 /* MenuItemDetailsView.swift */,
 				8340D7692A77F12E007E8299 /* Assets.xcassets */,
 				8340D76B2A77F12E007E8299 /* Preview Content */,
+				839D5C202A7898CB007BAED5 /* MenuCategory.swift */,
+				839D5C222A7898FE007BAED5 /* Ingredient.swift */,
 			);
 			path = littlelemonmenu;
 			sourceTree = "<group>";
@@ -268,8 +274,10 @@
 			files = (
 				8340D7682A77F12D007E8299 /* ContentView.swift in Sources */,
 				8340D7902A77F176007E8299 /* MenuItemView.swift in Sources */,
+				839D5C232A7898FE007BAED5 /* Ingredient.swift in Sources */,
 				8340D7662A77F12D007E8299 /* littlelemonmenuApp.swift in Sources */,
 				8340D7922A77F291007E8299 /* MenuItemsOptionView.swift in Sources */,
+				839D5C212A7898CB007BAED5 /* MenuCategory.swift in Sources */,
 				8340D7942A77F29F007E8299 /* MenuItemDetailsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
