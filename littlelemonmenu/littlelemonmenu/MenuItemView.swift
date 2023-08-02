@@ -59,12 +59,14 @@ struct MenuItemGridSection:View{
         Section(header: Text(title).font(.largeTitle)){
             LazyVGrid(columns: columns) {
                 ForEach(menuItems){ menuItem in
-                    VStack {
-                        Rectangle()
-                        Text(menuItem.title)
+                    NavigationLink(destination: MenuItemDetailsView(menuItem: menuItem)){
+                        VStack {
+                            Rectangle()
+                            Text(menuItem.title)
+                        }
+                        .frame(height: 120)
+                        .foregroundColor(.black)
                     }
-                    .frame(height: 120)
-                    .foregroundColor(.black)
                 }
             }
         }
@@ -72,8 +74,4 @@ struct MenuItemGridSection:View{
 }
 
 
-struct MenuItemView_Previews: PreviewProvider {
-    static var previews: some View {
-        MenuItemView()
-    }
-}
+
