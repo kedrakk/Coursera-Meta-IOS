@@ -28,3 +28,5 @@ do{
 catch CalculatorError.unableToDivideByZero{
     print("Division by zero detected and not allowed")
 }
+
+
