@@ -14,7 +14,7 @@ import SwiftUI
 //    case desert = "Desert"
 //}
 
-enum sortOptions:String,CaseIterable,Identifiable{
+enum SortOptions:String,CaseIterable,Identifiable{
     var id : String { UUID().uuidString }
     case mostPopular = "Most Popular"
     case price = "Price $-$$$"
@@ -24,6 +24,7 @@ enum sortOptions:String,CaseIterable,Identifiable{
 struct MenuItemsOptionView: View {
     
     @StateObject var menuViewModel:MenuViewModel
+    //@State private var selectedFilter:SortOptions = SortOptions.name
     
     @Environment(\.presentationMode) var presentationMode
     var body: some View {
@@ -41,8 +42,19 @@ struct MenuItemsOptionView: View {
                         }
                     }
                     Section(header: Text("SORT BY")) {
-                        ForEach(sortOptions.allCases){value in
-                            Text(value.rawValue)
+                        ForEach(SortOptions.allCases){value in
+                            Button {
+                                self.menuViewModel.selectedSortOption = value
+                            } label: {
+                                HStack{
+                                    Text(value.rawValue)
+                                    Spacer()
+                                    if menuViewModel.selectedSortOption == value {
+                                        Image(systemName: "checkmark").foregroundColor(.blue)
+                                    }
+                                }
+                            }
+
                         }
                     }
 
@@ -52,6 +64,38 @@ struct MenuItemsOptionView: View {
             .navigationBarBackButtonHidden(true)
             .toolbar{
                 Button("Done") {
+                    if(menuViewModel.selectedSortOption == SortOptions.name){
+                        menuViewModel.AllFoodMenu.MenuItemsList.sort(by: {
+                            $0.title < $1.title
+                        })
+                        menuViewModel.AllDrinkMenu.MenuItemsList.sort(by: {
+                            $0.title < $1.title
+                        })
+                        menuViewModel.AllDesertMenu.MenuItemsList.sort(by: {
+                            $0.title < $1.title
+                        })
+                    }
+                    else if(menuViewModel.selectedSortOption == SortOptions.price){
+                        menuViewModel.AllFoodMenu.MenuItemsList.sort(by: {
+                            $0.price > $1.price
+                        })
+                        menuViewModel.AllDrinkMenu.MenuItemsList.sort(by: {
+                            $0.price > $1.price
+                        })
+                        menuViewModel.AllDesertMenu.MenuItemsList.sort(by: {
+                            $0.price > $1.price
+                        })
+                    }else{
+                        menuViewModel.AllFoodMenu.MenuItemsList.sort(by: {
+                            $0.orderCount > $1.orderCount
+                        })
+                        menuViewModel.AllDrinkMenu.MenuItemsList.sort(by: {
+                            $0.orderCount > $1.orderCount
+                        })
+                        menuViewModel.AllDesertMenu.MenuItemsList.sort(by: {
+                            $0.orderCount > $1.orderCount
+                        })
+                    }
                     self.presentationMode.wrappedValue.dismiss()
                 }
             }

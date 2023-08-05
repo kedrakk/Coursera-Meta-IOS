@@ -47,7 +47,6 @@ struct MenuItemDetailView_Previews: PreviewProvider {
                 title: "Drink 1",
                 menuCategory: MenuCategory.drink,
                 orderCount: 1000,
-                priceInt: 60,
                 ingredient: [Ingredient.spinach]
             )
         )

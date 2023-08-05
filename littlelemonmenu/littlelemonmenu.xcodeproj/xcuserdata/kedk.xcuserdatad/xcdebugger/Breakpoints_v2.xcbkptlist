@@ -3,4 +3,118 @@
    uuid = "D895D23C-3E40-4544-BF5B-16166413ED2C"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9642474C-B13B-413D-A444-229F9EFD79B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "littlelemonmenu/MenuItemsOptionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9642474C-B13B-413D-A444-229F9EFD79B7 - e239a3627696129a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in littlelemonmenu.MenuItemsOptionView.body.getter : some"
+                  moduleName = "littlelemonmenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/littlelemonmenu/littlelemonmenu/MenuItemsOptionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  uuid = "9642474C-B13B-413D-A444-229F9EFD79B7 - a8d69d70e11890a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (littlelemonmenu.MenuItem, littlelemonmenu.MenuItem) -&gt; Swift.Bool in closure #1 () -&gt; () in closure #2 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in littlelemonmenu.MenuItemsOptionView.body.getter : some"
+                  moduleName = "littlelemonmenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/littlelemonmenu/littlelemonmenu/MenuItemsOptionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2E77F30-E321-4B71-A675-EEAD57B270A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "littlelemonmenu/MenuItemsOptionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D9B1B7B-DE67-43FF-B368-8FFCEA0D03CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "littlelemonmenu/MenuItemsOptionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9D9B1B7B-DE67-43FF-B368-8FFCEA0D03CA - e239a36276960dc5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in littlelemonmenu.MenuItemsOptionView.body.getter : some"
+                  moduleName = "littlelemonmenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/littlelemonmenu/littlelemonmenu/MenuItemsOptionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1696">
+               </Location>
+               <Location
+                  uuid = "9D9B1B7B-DE67-43FF-B368-8FFCEA0D03CA - 5cdd980bd1cb837e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #7 (littlelemonmenu.MenuItem, littlelemonmenu.MenuItem) -&gt; Swift.Bool in closure #1 () -&gt; () in closure #2 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in littlelemonmenu.MenuItemsOptionView.body.getter : some"
+                  moduleName = "littlelemonmenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/littlelemonmenu/littlelemonmenu/MenuItemsOptionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

@@ -8,10 +8,11 @@
 import Foundation
 
 class MenuViewModel:ObservableObject{
-    let AllFoodMenu:[MenuItem]
-    let AllDrinkMenu:[MenuItem]
-    let AllDesertMenu:[MenuItem]
+    @Published var AllFoodMenu:MenuItemList
+    @Published var AllDrinkMenu:MenuItemList
+    @Published var AllDesertMenu:MenuItemList
     @Published var menuCategoryWithOptions:[MenuCatgoryAndOption]
+    @Published var selectedSortOption:SortOptions
     
     init(){
         AllFoodMenu = foodMenuItems();
@@ -21,7 +22,16 @@ class MenuViewModel:ObservableObject{
             MenuCatgoryAndOption(id: UUID(),menuCategory: MenuCategory.food, isSelected: true),
             MenuCatgoryAndOption(id: UUID(),menuCategory: MenuCategory.drink, isSelected: true),
             MenuCatgoryAndOption(id: UUID(),menuCategory: MenuCategory.desert, isSelected: true)
-        ]
+        ];
+        selectedSortOption = SortOptions.name;
+    }
+}
+
+class MenuItemList:ObservableObject{
+    @Published var MenuItemsList:[MenuItem]
+    
+    init(MenuItemsList: [MenuItem]) {
+        self.MenuItemsList = MenuItemsList
     }
 }
 
