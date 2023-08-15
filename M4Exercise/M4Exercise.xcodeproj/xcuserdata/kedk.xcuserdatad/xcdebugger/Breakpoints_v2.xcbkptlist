@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "20D3B763-3F04-4922-BB4F-42C6115AB428"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A90E461B-F5B9-42D0-8F8D-A1B26BB8BAC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/DishesModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "reload(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E75607B-B268-4CC3-A693-DEAB51AB229A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/DishesModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "reload(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4E75607B-B268-4CC3-A693-DEAB51AB229A - 61a73f7160e522b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "4E75607B-B268-4CC3-A693-DEAB51AB229A - 5bd83c559c9a0bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "150EB27B-631A-4107-8CFE-C2023A12C059"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/OurDishes.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "OurDishes"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "150EB27B-631A-4107-8CFE-C2023A12C059 - 3ec36225a220b7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of M4Exercise.OurDishes.dishesModel : M4Exercise.DishesModel"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/OurDishes.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "150EB27B-631A-4107-8CFE-C2023A12C059 - cf5696dae2a2ae6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "M4Exercise.OurDishes.dishesModel.getter : M4Exercise.DishesModel"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/OurDishes.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "150EB27B-631A-4107-8CFE-C2023A12C059 - f99facc995df9e44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "M4Exercise.OurDishes.dishesModel.setter : M4Exercise.DishesModel"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/OurDishes.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "150EB27B-631A-4107-8CFE-C2023A12C059 - 7793e7ede706026a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "M4Exercise.OurDishes.dishesModel.modify : M4Exercise.DishesModel"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/OurDishes.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "150EB27B-631A-4107-8CFE-C2023A12C059 - 250ce5031f145e04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "M4Exercise.OurDishes.dishesModel.modify : M4Exercise.DishesModel with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/OurDishes.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "150EB27B-631A-4107-8CFE-C2023A12C059 - 1d117c8d8d538443"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "M4Exercise.OurDishes.$dishesModel.getter : SwiftUI.ObservedObject&lt;M4Exercise.DishesModel&gt;.Wrapper"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/OurDishes.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "150EB27B-631A-4107-8CFE-C2023A12C059 - 5812daf58e5d2be9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "M4Exercise.OurDishes.init() -&gt; M4Exercise.OurDishes"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/OurDishes.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12309AC3-4E85-46AF-AB8C-4EA5B89674CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/OurDishes.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "OurDishes"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "12309AC3-4E85-46AF-AB8C-4EA5B89674CC - 1d15a37f82f97be7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of M4Exercise.OurDishes.showAlert : Swift.Bool"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/OurDishes.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "12309AC3-4E85-46AF-AB8C-4EA5B89674CC - 5812daf58e5d2b8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "M4Exercise.OurDishes.init() -&gt; M4Exercise.OurDishes"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/OurDishes.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "12309AC3-4E85-46AF-AB8C-4EA5B89674CC - ebdb63faa51c2fca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "M4Exercise.OurDishes.init(dishesModel: M4Exercise.DishesModel, searchText: Swift.String) -&gt; M4Exercise.OurDishes"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/OurDishes.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55436E03-1130-40C1-8E26-8E15B91DA195"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/DishesModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "reload(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "55436E03-1130-40C1-8E26-8E15B91DA195 - 85fca2a9bb8f123"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "55436E03-1130-40C1-8E26-8E15B91DA195 - 29f1a6e9964c24a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C89AE34-B0C2-49F6-8C65-35AE108B0B4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/DishesModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "reload(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C89AE34-B0C2-49F6-8C65-35AE108B0B4F - 29f1a6e9964c276e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "0C89AE34-B0C2-49F6-8C65-35AE108B0B4F - 61a73f7160e5236c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "0C89AE34-B0C2-49F6-8C65-35AE108B0B4F - 5bd83c559c9a163"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99AC1982-8588-47DB-B69E-F61392144A55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/DishesModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "reload(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "99AC1982-8588-47DB-B69E-F61392144A55 - 61a73f7160e522d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "99AC1982-8588-47DB-B69E-F61392144A55 - 61a73f7160e522d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "99AC1982-8588-47DB-B69E-F61392144A55 - 5bd83c559c9a0de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "99AC1982-8588-47DB-B69E-F61392144A55 - 5bd83c559c9a0de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "99AC1982-8588-47DB-B69E-F61392144A55 - 61a73f7160e522d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "696">
+               </Location>
+               <Location
+                  uuid = "99AC1982-8588-47DB-B69E-F61392144A55 - 61a73f7160e522d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "720">
+               </Location>
+               <Location
+                  uuid = "99AC1982-8588-47DB-B69E-F61392144A55 - 5bd83c559c9a0de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "99AC1982-8588-47DB-B69E-F61392144A55 - 5bd83c559c9a0de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38B6ACBE-4E32-438F-9DB9-296359AAD2EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/DishesModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "reload(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "38B6ACBE-4E32-438F-9DB9-296359AAD2EB - 61a73f7160e523aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "38B6ACBE-4E32-438F-9DB9-296359AAD2EB - 61a73f7160e523c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F1372DF-D9C6-43E0-83C6-68BE58328089"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/DishesModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "reload(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F1372DF-D9C6-43E0-83C6-68BE58328089 - 61a73f7160e523c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "1F1372DF-D9C6-43E0-83C6-68BE58328089 - 61a73f7160e523e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FC79BD6-FBA3-4F7C-8946-C376BC94DED9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/DishesModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "reload(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6FC79BD6-FBA3-4F7C-8946-C376BC94DED9 - 29f1a6e9964c270d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "6FC79BD6-FBA3-4F7C-8946-C376BC94DED9 - fad91703e9700ed5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "6FC79BD6-FBA3-4F7C-8946-C376BC94DED9 - 61a73f7160e5230f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "6FC79BD6-FBA3-4F7C-8946-C376BC94DED9 - 5bd83c559c9a100"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "6FC79BD6-FBA3-4F7C-8946-C376BC94DED9 - 61a73f7160e5230f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36D0B48A-E0B2-4A79-96AA-5F4396340FEE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/DishesModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "reload(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "36D0B48A-E0B2-4A79-96AA-5F4396340FEE - 61a73f7160e5257c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "36D0B48A-E0B2-4A79-96AA-5F4396340FEE - 5bd83c559c9a773"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "552">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5790C4D3-E5B0-4E4D-BC5C-A19AC68B2A73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "M4Exercise/OUR DISHES/DishesModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "reload(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5790C4D3-E5B0-4E4D-BC5C-A19AC68B2A73 - 61a73f7160e522b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "732">
+               </Location>
+               <Location
+                  uuid = "5790C4D3-E5B0-4E4D-BC5C-A19AC68B2A73 - 5bd83c559c9a0bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "5790C4D3-E5B0-4E4D-BC5C-A19AC68B2A73 - 61a73f7160e522d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  uuid = "5790C4D3-E5B0-4E4D-BC5C-A19AC68B2A73 - 5bd83c559c9a0de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for M4Exercise.DishesModel.reload(__C.NSManagedObjectContext) async -&gt; ()"
+                  moduleName = "M4Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kedk/Development/projects/ios-prj/coursera-ios/M4Exercise/M4Exercise/OUR%20DISHES/DishesModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
