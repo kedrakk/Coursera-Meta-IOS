@@ -25,16 +25,19 @@ struct OurDishes: View {
             
             NavigationView {
                 FetchedObjects(
-                    predicate:NSPredicate(value: true),
-                    sortDescriptors: []) {
+                    predicate:buildPredicate(),
+                    sortDescriptors: buildSortDescriptors()) {
                         (dishes: [Dish]) in
                         List {
                             // Code for the list enumeration here
                             ForEach(dishes) { dish in
-                                DisplayDish(dish)
+                                DisplayDish(dish).onTapGesture {
+                                    showAlert = true
+                                }
                             }
                         }
-                        // add the search bar modifier here
+                        .searchable(text: $searchText,
+                                                        prompt: "search...")
                     }
             }
             
@@ -60,6 +63,26 @@ struct OurDishes: View {
             
         }
     }
+    
+    func buildPredicate() -> NSPredicate {
+           if(searchText == ""){
+               return NSPredicate(format: "TRUEPREDICATE")
+           }
+           return NSPredicate(format: "name CONTAINS[d] %@", searchText)
+       }
+    
+    func buildSortDescriptors() -> [NSSortDescriptor] {
+            return [
+                NSSortDescriptor(key: "name",
+                                 ascending: true,
+                                 selector:
+                                    #selector(NSString .localizedCaseInsensitiveCompare)),
+                NSSortDescriptor(key: "size",
+                                             ascending: false,
+                                             selector:
+                                    #selector(NSString .localizedStandardCompare))
+            ]
+        }
 }
 
 struct OurDishes_Previews: PreviewProvider {
